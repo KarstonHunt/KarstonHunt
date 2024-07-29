@@ -1,16 +1,14 @@
-Hello, I'm Karston
+Hello, I'm Karston.
 
-<!--
-**KarstonHunt/KarstonHunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some Projects of Mine 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Raspberry Pi Pico W:
+  
+      Binary LED Counting Synced with Nightcall by Kavinsky
+      (https://www.youtube.com/watch?v=mUujspsFdiA)
+      
+      Reading Analog Voltages Using a Potentiometer
+      (https://www.youtube.com/watch?v=1ICs1D_q1SE)
+      
+      Controlling LED Indicator Lights With Potentiometer Input
+      (https://www.youtube.com/watch?v=JWHmWvBACIY)
